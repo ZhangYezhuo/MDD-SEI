@@ -30,7 +30,7 @@ To the source code we referenced:
 
 ## Requirements
 
-> pip install -r requirements.txt
+``pip install -r requirements.txt``
 
 ## Data preparation
 
@@ -55,8 +55,7 @@ If you choose ```TorchSig```, note that this is a simulated dataset. If you use 
 cd into ```code/script``` and do
 
 raw DRSN model: 
-> bash DRSN.sh 
+``bash DRSN.sh``
 
 DRSN with MDD:  
-> bash MDD_DRSN.sh
-
+``bash MDD_DRSN.sh``
