@@ -65,3 +65,11 @@ DRSN with MDD:
 ```python
 bash MDD_DRSN.sh
 ```
+
+## Contact
+
+If you have any problem with our code or any suggestions, including discussion on SEI, please feel free to contact
+
+Yezhuo Zhang (zhang_yezhuo@seu.edu.cn | zhang_yezhuo@outlook.com)
+Zinan Zhou (zhouzinan919@seu.edu.cn)
+Xuanpeng Li (li_xuanpeng@seu.edu.cn)
