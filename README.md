@@ -3,6 +3,15 @@ Specific Emitter Identification Handling Modulation Variation with Margin Dispar
 
 A project employing the **Margin Disparity Discrepancy (MDD)** method for **Domain Adaptation** in a scenario with **changing modulation schemes** within the **Specific Emitter Identification (SEI)**.
 
+if our codes helped your reasearch, please consider citing the corresponding submission
+
+> @article{zhang2024specific,
+      title={Specific Emitter Identification Handling Modulation Variation with Margin Disparity Discrepancy}, 
+      author={Yezhuo Zhang and Zinan Zhou and Xuanpeng Li},
+      year={2024},
+      journal={arXiv preprint arXiv:2403.11531},
+}
+
 - SEI with modulation variation
 ![MDD_structure](modulation_changing.jpg)
 
