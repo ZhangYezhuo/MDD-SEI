@@ -1,17 +1,30 @@
 # MDD-SEI
-Specific Emitter Identification Handling Modulation Variation with Margin Disparity Discrepancy
+Improved Specific Emitter Identification Based on Margin Disparity Discrepancy in Varying Modulation Scenarios
 
 A project employing the **Margin Disparity Discrepancy (MDD)** method for **Domain Adaptation** in a scenario with **changing modulation schemes** within the **Specific Emitter Identification (SEI)**.
+
+---
+
+## Author Notes
+
+1. **Usage Recommendation**: We strongly encourage readers to use the model for comparative experiments or to refer to the code structure to build their own models. However, we do **not** recommend directly applying the model in real-world scenarios.
+2. **Timeliness**: The experiments in this paper were conducted in September 2023. Please note that the timeliness of the results may be limited.
+3. **Model Stability**: The MDD method used in this work is highly unstable during training. While the best results can be impressive, they are difficult to reproduce, especially on the POWDER dataset.
+
+---
 
 if our codes helped your reasearch, please consider citing the corresponding submission
 
 ```citatioin
-@article{zhang2024specific,
-        title={Specific Emitter Identification Handling Modulation Variation with Margin Disparity Discrepancy},
-        author={Yezhuo Zhang and Zinan Zhou and Xuanpeng Li},
-        year={2024},
-        journal={arXiv preprint arXiv:2403.11531},
-}
+@article{zhang2025improved,
+        author={Zhang, Yezhuo and Zhou, Zinan and Cao, Yichao and Li, Guangyu and Li, Xuanpeng},
+        journal={IEEE Signal Processing Letters}, 
+        title={Improved Specific Emitter Identification Based on Margin Disparity Discrepancy in Varying Modulation Scenarios}, 
+        year={2025},
+        volume={},
+        number={},
+        pages={1-5},
+        doi={10.1109/LSP.2025.3597100}}
 ```
 
 - SEI with modulation variation
