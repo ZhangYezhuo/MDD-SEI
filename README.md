@@ -13,7 +13,7 @@ A project employing the **Margin Disparity Discrepancy (MDD)** method for **Doma
 
 ---
 
-if our codes helped your reasearch, please consider citing the corresponding submission
+If our codes helped your reasearch, please consider citing the corresponding submission
 
 ```citatioin
 @article{zhang2025improved,
